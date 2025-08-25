@@ -6,6 +6,7 @@ CREATE DATABASE IF NOT EXISTS `SENA_JT_10`
     DEFAULT CHARACTER SET utf8mb4
     COLLATE utf8mb4_unicode_ci;
 
+-- Usar Base de Datos
 USE SENA_JT_10;
 
 -- Establecer Zona Horaria para la Base de Datos
